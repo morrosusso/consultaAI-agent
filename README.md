@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ConsultAI Agent
 
 AI-powered consultancy agent with Gmail integration, built with Next.js and Claude AI.
@@ -26,3 +27,6 @@ ANTHROPIC_API_KEY=your_anthropic_api_key
 2. Import in Vercel
 3. Add environment variables
 4. Deploy!
+=======
+# consultaAI-agent
+>>>>>>> dcddb332b0d29c947f2ecf96e8cf2f11a49b4ee4
